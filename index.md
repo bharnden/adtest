@@ -2,6 +2,8 @@
 
 main content.
 
+![code](code.jpg){:height="100px" width="100px"}
+
 ## Section 1
 Section content.
 

@@ -1,3 +1,10 @@
 site_name: My Docs
 theme:
   name: material
+  features:
+    - navigation.path
+    - navigation.instant
+nav:
+  - Home: index.md
+  - Page1: page1.md
+  - Page2: page2.md

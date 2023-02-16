@@ -1,6 +1,6 @@
 # This is Page 1
 
--8<- "docs/snippets/common.md"
+-8<- "snippets/common.md"
 
 ## Another Section
 Another content.

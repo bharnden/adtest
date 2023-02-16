@@ -22,7 +22,8 @@ theme:
     - navigation.path
     - navigation.instant
 markdown_extensions:
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path: docs
   - admonition
   - pymdownx.details
   - pymdownx.superfences

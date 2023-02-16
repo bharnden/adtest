@@ -1,6 +1,23 @@
-site_name: My Docs
+site_name: AD Test
+site_description: This site covers AD Test information
+repo_url: https://github.com/bharnden/adtest
 theme:
   name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: teal
+      accent: teal
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: teal
+      accent: teal
   features:
     - navigation.path
     - navigation.instant
@@ -10,7 +27,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
+  - attr_list
+  - md_in_html
 nav:
   - Home: index.md
   - Page1: page1.md

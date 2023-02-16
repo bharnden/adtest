@@ -1,12 +1,13 @@
 # Main Title
 
-main content.
-
-![code](images/code.jpg){:height="100px" width="100px"}
-
 <p align="center">
   <img src="images/code.jpg" width="50%">
 </p>
+
+<figure markdown>
+  ![Code Example](images/code.jpg){ width="500" }
+  <figcaption>Code Example</figcaption>
+</figure>
 
 ## Section 1
 Section content.

@@ -6,6 +6,11 @@ theme:
     - navigation.instant
 markdown_extensions:
   - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 nav:
   - Home: index.md
   - Page1: page1.md

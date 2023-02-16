@@ -4,6 +4,10 @@ main content.
 
 ![code](code.jpg){:height="100px" width="100px"}
 
+<p align="center">
+  <img src="code.jpg" width="50%">
+</p>
+
 ## Section 1
 Section content.
 

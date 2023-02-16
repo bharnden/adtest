@@ -4,11 +4,6 @@
   <img src="images/code.jpg" width="50%">
 </p>
 
-<figure markdown>
-  ![Code Example](images/code.jpg){ width="500" }
-  <figcaption>Code Example</figcaption>
-</figure>
-
 ## Section 1
 Section content.
 

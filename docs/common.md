@@ -1,0 +1,1 @@
+This is common content being loaded as a snippet.

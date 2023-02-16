@@ -1,6 +1,5 @@
 # This is Page 1
-
-Page 1 content, some new text.
+--8<-- "common.md"
 
 ## Another Section
 Another content.

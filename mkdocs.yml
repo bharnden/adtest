@@ -4,6 +4,8 @@ theme:
   features:
     - navigation.path
     - navigation.instant
+markdown_extensions:
+  - pymdownx.snippets
 nav:
   - Home: index.md
   - Page1: page1.md

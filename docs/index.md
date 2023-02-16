@@ -2,10 +2,10 @@
 
 main content.
 
-![code](code.jpg){:height="100px" width="100px"}
+![code](images/code.jpg){:height="100px" width="100px"}
 
 <p align="center">
-  <img src="code.jpg" width="50%">
+  <img src="images/code.jpg" width="50%">
 </p>
 
 ## Section 1

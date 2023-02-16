@@ -2,6 +2,12 @@
 
 -8<- "snippets/common.md"
 
+## Snippet Check
+
+--8<--
+snippets/common.md
+--8<--
+
 ## Another Section
 Another content.
 

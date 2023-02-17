@@ -5,7 +5,7 @@
 ## Snippet Check
 
 --8<--
-snippets/common.md
+[common.md](snippets/common.md)
 --8<--
 
 ## Another Section
